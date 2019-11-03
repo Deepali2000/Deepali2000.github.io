@@ -1,0 +1,18 @@
+	body{
+	background: #CCC;
+}
+#header a:hover{
+	color: #FFF; 
+}
+
+#bg-img{
+	background: url("img/21.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	min-height: 500px; 
+}
+
+#About{
+	margin-top: -200px;
+}
+

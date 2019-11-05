@@ -24,10 +24,11 @@
 	border-width: 2px;
 	margin-top: 6px;
 }
-#Skills span{
-	padding: 10px 20px 10px 20px;
+.card-body{
+	width: 77%; 
+	margin-left: 12%;
 }
-#Skills hr{
-  border-width: 2px;
-  margin-top: 06px;
+
+#Experience .card{
+	border-top: 03px solid red;
 }

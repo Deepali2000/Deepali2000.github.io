@@ -32,3 +32,6 @@
 #Experience .card{
 	border-top: 03px solid red;
 }
+.bb{
+	 list-style: box;
+}

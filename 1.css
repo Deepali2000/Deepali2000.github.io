@@ -4,26 +4,6 @@
 #header a:hover{
 	color: #FFF; 
 }
-.nav ul li {
-font-family:Comic Sans MS;
-float: left;
-    width: 120px;
-    text-align: center;
-    line-height: 40px;
-    height: 40px;
-    position: relative;
-    overflow: hidden;
-}
-.nav ul li::after
-{ content: "";
-position: absolute;
-left: 100%;
-bottom: 0%;
-background: white;
-height: 3px;
-width: 100%;
-transition: 0.2s ease-in-out;
-}
 
 #bg-img{
 	background: url("img/21.jpg");
@@ -45,7 +25,9 @@ transition: 0.2s ease-in-out;
 	margin-top: 6px;
 }
 
-
+.row{
+	margin-right:5px;
+}
 #Experience .card{
 	border-top: 03px solid red;
 }
